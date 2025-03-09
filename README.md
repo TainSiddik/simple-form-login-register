@@ -5,4 +5,5 @@ Tech Stack :
 - Tailwindcss
 
 deploy :
--netlify
+- netlify
+- link : https://tainsiddik-loginform.netlify.app/
